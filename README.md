@@ -34,30 +34,6 @@
 
 ---
 
-### 🎮 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>今日はテスト</b><br>
-      Unity game with URP post processing, Shader Graph, a minimap, IK animation and particles.<br><br>
-      <a href="https://github.com/lucanicohe/REPO-NAME">View repo</a>
-    </td>
-    <td width="33%" valign="top">
-      <b>Gacha Card App</b><br>
-      Unity WebGL card-draw app using a REST API and UniTask, hosted on GitHub Pages.<br><br>
-      <a href="https://github.com/lucanicohe/REPO-NAME">View repo</a> | <a href="https://lucanicohe.github.io/REPO-NAME/">Play</a>
-    </td>
-    <td width="33%" valign="top">
-      <b>C++ Maze Game</b><br>
-      Console maze game written in C++.<br><br>
-      <a href="https://github.com/lucanicohe/REPO-NAME">View repo</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
