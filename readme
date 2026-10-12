@@ -1,7 +1,40 @@
-# Luca Helgert
+# Hi, I'm Luca Helgert 👋
 
-**Game Programmer & Technical Artist**
+**Game Programmer in Tokyo | C++ / C# / Unity**
 
-[View Portfolio](https://lucanicohe.github.io/portfolio/)
+2nd year Game Programmer course student at TECH.C. (Tokyo Design Technology Center), graduating in 2028. German, living in Japan for about 4 years, fluent in Japanese. Looking for part-time work now and a full-time game programmer role after graduation.
 
-[Instagram](https://www.instagram.com/lucanicohe)
+東京デザインテクノロジーセンター専門学校（TECH.C.）ゲームプログラマーコース2年。2028年卒業予定。日本在住約4年、日本語で業務可能です。現在アルバイトを、卒業後は正社員のゲームプログラマー職を探しています。
+
+---
+
+## Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## Featured Projects
+
+**今日はテスト (Kyou wa Tesuto)** | Unity
+A system-test styled game that demonstrates URP post processing, Shader Graph effects, a UGUI minimap, IK animation and particle systems.
+[View repo](https://github.com/lucanicohe/REPO-NAME)
+
+**Gacha Card App** | Unity, C#, WebGL
+Card-draw app connected to a REST API, built with UniTask and deployed to GitHub Pages.
+[View repo](https://github.com/lucanicohe/REPO-NAME) | [Play in browser](https://lucanicohe.github.io/REPO-NAME/)
+
+**C++ Console Maze Game** | C++
+Console-based maze game written in C++.
+[View repo](https://github.com/lucanicohe/REPO-NAME)
+
+---
+
+## Contact
+
+🌐 Portfolio: [lucanicohe.github.io/portfolio](https://lucanicohe.github.io/portfolio/)
+📧 Email: [luca.helgert@icloud.com](mailto:luca.helgert@icloud.com)
