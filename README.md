@@ -22,6 +22,16 @@
 
 ---
 
+### 👤 About Me
+
+- 🎮 I love playing and making video games!
+- 🎓 Currently studying Game Programming at Tokyo Design Technology Center (TECH.C.), graduating in 2028
+- 🛠 I build games mainly in Unity (C#) and also work with Unreal Engine and C++
+- 🌱 I'm always learning more about game engines, shaders and game development technologies
+- 📄 Please have a look at my [Web Portfolio](https://lucanicohe.github.io/portfolio/) for more details about me. I'm open to feedback and suggestions!
+
+---
+
 ### 🛠 Tech Stack
 
 **Languages**<br>
