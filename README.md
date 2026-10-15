@@ -55,5 +55,5 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucanicohe&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucanicohe&layout=compact&theme=dark&hide_border=true&hide=html" alt="Top languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucanicohe&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top languages">
 </p>
